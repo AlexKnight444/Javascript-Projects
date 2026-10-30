@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Assignment 5: Function Architecture &amp; Scope</title>
+  <link rel="stylesheet" href="../assets/style.css" />
+</head>
+<body>
+  <main>
+    <section class="card">
+      <h1>Assignment 5: Function Architecture &amp; Scope</h1>
+      <p class="task"><strong>Task:</strong> Standard and arrow functions with default parameters, plus a function/block scope demonstration.</p>
+      <button id="runBtn">&#9654; Run Program</button>
+      <p><small>Output also appears in the browser console (F12 &rarr; Console).</small></p>
+      <pre id="output">Click "Run Program" to start...
+</pre>
+    </section>
+  </main>
+
+  <script src="../assets/output.js"></script>
+  <script src="script.js"></script>
+  <script>
+    document.getElementById("runBtn").addEventListener("click", () => {
+      document.getElementById("output").textContent = "";
+      main();
+    });
+  </script>
+</body>
+</html>
