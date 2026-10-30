@@ -7,13 +7,13 @@ conditionals, loops, functions, scope, arrays and objects.
 
 | # | Folder | Concepts |
 |---|--------|----------|
-| 1 | `assignment-1-variables-datatypes` | `var`/`let`/`const`, `typeof`, console output |
-| 2 | `assignment-2-tip-calculator` | `prompt()`, `Number()`, arithmetic & assignment operators |
-| 3 | `assignment-3-grade-evaluator` | `if...else`, `switch`, ternary operator |
-| 4 | `assignment-4-loops` | `for`, `while` + `break`, `do...while` + `continue` |
-| 5 | `assignment-5-functions-scope` | standard & arrow functions, default params, function/block scope |
-| 6 | `assignment-6-arrays-objects` | array of objects, `forEach`, `filter`, `map` |
-| ★ | `capstone-inventory-dashboard` | everything combined: Product Inventory & Analytics Dashboard |
+| 1 | `Assignment 1- Variables datatypes` | `var`/`let`/`const`, `typeof`, console output |
+| 2 | `Assignment 2- Tip calculator` | `prompt()`, `Number()`, arithmetic & assignment operators |
+| 3 | `Assignment 3- Grade evaluator` | `if...else`, `switch`, ternary operator |
+| 4 | `Assignment 4- Loops` | `for`, `while` + `break`, `do...while` + `continue` |
+| 5 | `Assignment 5- Functions scope` | standard & arrow functions, default params, function/block scope |
+| 6 | `Assignment 6- Arrays objects` | array of objects, `forEach`, `filter`, `map` |
+| ★ | `Capstone Mini Project` | everything combined: Product Inventory & Analytics Dashboard |
 
 ## How to run
 
@@ -29,9 +29,9 @@ No installation or build step is needed.
 ```
 JavaScript-Internship-Projects/
 ├── assets/                 # shared CSS + output helper (log to console and page)
-├── assignment-1-.../       # index.html + script.js
+├── Assignment 1-.../       # index.html + script.js
 ├── ...
-└── capstone-inventory-dashboard/
+└── Capstone Mini Project/
 ```
 
 ## Author
